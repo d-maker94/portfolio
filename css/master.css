@@ -1,0 +1,17 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.logoHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.centered {
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: center;
+}
